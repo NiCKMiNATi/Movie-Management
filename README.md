@@ -7,9 +7,10 @@ This is a project to learn JAVA WEB Application by using:
 4. Lombok dependency (Helps reducing boilerplate code with the help of annotations)
 
 Created using : 
-1. IntelliJ
-2. ChatGPT
-3. Git BASH(to push code to Repository)
+1. Spring Initializr website to generate the necessary files
+2. IntelliJ
+3. ChatGPT
+4. Git BASH(to push code to Repository)
 
 Folders:
 1. Model
