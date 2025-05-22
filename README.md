@@ -19,6 +19,10 @@ Folders:
 5. Movie
 
 Details:
+MovieManagementApplication.java -
+ - The starting point of the application
+ - Run this file/code to start the project/webpage
+
 Model - 
   - aka 'Entity'
   - Used to store the Variables that are gonna be used throughout the project
